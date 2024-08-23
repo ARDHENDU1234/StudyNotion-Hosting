@@ -26,4 +26,4 @@ package-lock.json
 pnpm-lock.yaml
 
 # link
-backend_link
+backend_link = https://studynotion-hosting-9k5w.onrender.com
